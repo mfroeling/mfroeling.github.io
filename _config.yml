@@ -4,5 +4,5 @@ plugins:
 theme: jekyll-theme-slate
 
 ---
-redirect_To: "https://mfroeling.github.io/QMRITools/"
+redirect_to: "https://mfroeling.github.io/QMRITools/"
 ---
