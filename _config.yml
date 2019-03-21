@@ -3,6 +3,8 @@ plugins:
   
 theme: jekyll-theme-slate
 
----
-redirect_to: "https://mfroeling.github.io/QMRITools/"
----
+title: QMRITools
+
+redirect_to: 
+  - https://mfroeling.github.io/QMRITools/
+
