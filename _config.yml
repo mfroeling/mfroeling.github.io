@@ -1,7 +1,8 @@
 plugins:
   - jekyll-redirect-from
   
----
-redirect_from: "/DTITools/"
----
 theme: jekyll-theme-slate
+
+---
+redirect_To: "https://mfroeling.github.io/QMRITools/"
+---
