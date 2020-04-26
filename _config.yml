@@ -1,6 +1,10 @@
 plugins:
   - jekyll-redirect-from
-  
+
+title: QMRITools
+description: Processing tools related to quantitative MRI of muscle, heart and nerves.
+
+show_downloads: true  
 theme: jekyll-theme-hacker
 
-show_downloads: true
+
