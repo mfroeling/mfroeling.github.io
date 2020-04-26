@@ -1,7 +1,7 @@
 ---
 
 title: QMRITools
-description: Processing tools related to quantitative MRI of muscle, heart and nerves.
+description: Processing tools related to quantitative MRI and spectroscopy of muscle, heart and nerves.
 
 show_downloads: true  
 theme: jekyll-theme-hacker
